@@ -1,0 +1,30 @@
+var json_Alumnos_8 = {
+"type": "FeatureCollection",
+"name": "Alumnos_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOMBRE": "CANO JOHNNY", "CARRERA": "DOCENTE", "SEXO": "MASCULINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.152951402788005, -16.502226486061403 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "VALVERDE ALFREDO", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.094826070556749, -16.535951532231987 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CALLEJAS PAULO", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.106390216899754, -16.505295750920521 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "ROSAS WILDER", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.302417321195705, -16.644687518542462 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "MAYTA SONNY", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.150477900785333, -16.542946761719538 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "HERRERA FABIO", "CARRERA": "AMBIENTAL", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.104112604060177, -16.493264059821307 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CUSICANQUI LEONARDO", "CARRERA": "AMBIENTAL", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.117446191444714, -16.492904947627942 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "VILLACUTI JORGE", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.209633560645315, -16.509942000475501 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "FERNANDEZ ADRIAN", "CARRERA": "AMBIENTAL", "SEXO": "MASCULINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.118987818865577, -16.479343764027259 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "RAMOS ALFREDO", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.182327912212941, -16.479139775489532 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "GONZALES MANUEL", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "VIVA" }, "geometry": { "type": "Point", "coordinates": [ -68.18228389832808, -16.523061115580749 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "YUJRA JUAN PABLO", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "VIVA" }, "geometry": { "type": "Point", "coordinates": [ -68.16915150232677, -16.475797620468274 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "VERA LAURA", "CARRERA": "AMBIENTAL", "SEXO": "FEMENINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.150603948128222, -16.475470096200382 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CONDORI KAREN", "CARRERA": "PETROLERA", "SEXO": "FEMENINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.121302852323282, -16.468714461879827 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "MORALES ABRAHAM", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.16598670186201, -16.503851710532388 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CARVAJAL GARY", "CARRERA": "PETROLERA", "SEXO": "MASCULINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.167433568293021, -16.489783469740225 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "YAPUCHURA JESUS", "CARRERA": "PETROLERA", "SEXO": "MASCULINO", "TELEFONICA": "TIGO" }, "geometry": { "type": "Point", "coordinates": [ -68.216152712072073, -16.496561318158495 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CALLE DAYSI", "CARRERA": "AMBIENTAL", "SEXO": "FEMENINO", "TELEFONICA": "VIVA" }, "geometry": { "type": "Point", "coordinates": [ -68.083118144961148, -16.520841470822457 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "GAVINCHA HELEN", "CARRERA": "PETROLERA", "SEXO": "FEMENINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.160328925764546, -16.462221711237564 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "GONZALES ABDALIA", "CARRERA": "AMBIENTAL", "SEXO": "FEMENINO", "TELEFONICA": "VIVA" }, "geometry": { "type": "Point", "coordinates": [ -68.141566243936012, -16.491902554207247 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "POCOACA CRISTHIAN", "CARRERA": "SISTEMAS", "SEXO": "MASCULINO", "TELEFONICA": "VIVA" }, "geometry": { "type": "Point", "coordinates": [ -68.206190082336164, -16.552368121329735 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "CALLIZAYA RENE", "CARRERA": "AMBIENTAL", "SEXO": "MASCULINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.174935679384916, -16.523475132536493 ] } },
+{ "type": "Feature", "properties": { "NOMBRE": "GARCIA LESLY", "CARRERA": "PETROLERA", "SEXO": "FEMENINO", "TELEFONICA": "ENTEL" }, "geometry": { "type": "Point", "coordinates": [ -68.126416693315221, -16.500264277933645 ] } }
+]
+}
